@@ -1,4 +1,4 @@
-Credit Card Transaction Analysis project aim is to deliver better insights to the stakeholders for the following questions to support in decision making.
+Credit Card Transaction Analysis project aim is to deliver better insights to the stakeholders for the following questions to support in decision making for customer retention.
 
 Questions:
 1. Write a query to print top 5 cities with highest spends.
