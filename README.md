@@ -1,4 +1,5 @@
 Credit Card Transaction Analysis project aim is to deliver better insights to the stakeholders for the following questions to support in decision making.
+
 Questions:
 1. write a query to print top 5 cities with highest spends.
 2. write a query to print highest spend month and amount spent in that month for each card type.
